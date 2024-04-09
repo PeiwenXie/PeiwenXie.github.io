@@ -14,6 +14,7 @@ Education
 * Ph.D. in Marketing, Nanyang Technological University, 2025 (expected)
 * B.Sc. in Statistics, Sun Yat-sen University, 2019
 
+
 Work experience
 ======
 * 2019-2020: Associate Research Executive
