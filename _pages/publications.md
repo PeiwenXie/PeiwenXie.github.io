@@ -5,16 +5,22 @@ permalink: /publications/
 author_profile: true
 ---
 
-Articles Under Review:
+**Articles Under Review:**
 
-Xie, P., Kim, E., Lam, S., Reza, S. “Herding in NFT Auction: The Role of Visual Complexity and Familiarity.”, 2nd round review at International Journal of Research in Marketing.
+*Xie, P., Kim, E., Lam, S., Reza, S. “Herding in NFT Auction: The Role of Visual Complexity and Familiarity.”, 2nd round review at International Journal of Research in Marketing.
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+**Working papers:**
 
-{% include base_path %}
+*Xie, P., Kim, E., Reza, S. “The Value of Probabilistic Selling: Evidence from NFT Mystery Box.” (Job market paper).
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+*Reza, S., Ho, H., and Ling, R., Xie, P. “Estimating Endogenous Social Influence Using 2-hop Data with Incomplete Information.”
+
+#{% if site.author.googlescholar %}
+#  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+#{% endif %}
+#
+#{% include base_path %}
+#
+#{% for post in site.publications reversed %}
+#  {% include archive-single.html %}
+#{% endfor %}
