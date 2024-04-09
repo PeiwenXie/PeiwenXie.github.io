@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+  
+
 **Articles Under Review:**
 
 * Xie, P., Kim, E., Lam, S., Reza, S. “Herding in NFT Auction: The Role of Visual Complexity and Familiarity.”, 2nd round review at International Journal of Research in Marketing.
