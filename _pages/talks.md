@@ -1,26 +1,27 @@
 ---
 layout: archive
-title: "Research"
-permalink: /publications/
+title: "Conference and Presentation"
+permalink: /talks/
 author_profile: true
 ---
 
-**Articles Under Review:**
+**ISMS Marketing Science Conference, June 2024, Sydney, Australia (Scheduled)**
+* “The Value of Probabilistic Selling: Evidence from NFT Mystery Box”
 
-* Xie, P., Kim, E., Lam, S., Reza, S. “Herding in NFT Auction: The Role of Visual Complexity and Familiarity.”, 2nd round review at International Journal of Research in Marketing.
+**Marketing Brown-Bag Seminar, Nanyang Business School, February 2024, Singapore**
+* “The Value of Probabilistic Selling: Evidence from NFT Mystery Box”
 
-***
+**Nanyang Business School Research Day, September 2023, Singapore**
+* “Herding in NFT Auction: The Role of Visual Complexity and Familiarity”
+* Top performance in PhD poster presentation
 
-**Working papers:**
+**Marketing Brown-Bag, Nanyang Business School, April 2023, Singapore**
+* “Herding in NFT Auction: The Role of Visual Complexity and Familiarity”
 
-* Xie, P., Kim, E., Reza, S. “The Value of Probabilistic Selling: Evidence from NFT Mystery Box.” (Job market paper).
+**Econometric Society Summer School in Dynamic Structural Econometrics, December 2022, Virtual**
 
-* Reza, S., Ho, H., and Ling, R., Xie, P. “Estimating Endogenous Social Influence Using 2-hop Data with Incomplete Information.”
+**International Conference on Crypto-Marketing, December 2022, New York, USA**		
+* “Herding and Its Determinants in NFT Auction”
 
-***
-
-**Works in progress:**
-
-* “When Algorithm Meets Art: The Algorithm Appreciation Effect in creative contents.” with Xinlong Li 
 
 
