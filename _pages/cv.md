@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Marketing, Nanyang Technological University, 2025 (expected)
+* B.Sc. in Statistics, Sun Yat-sen University, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* 2019-2020: Associate Research Executive
+  * Ipsos (China) Consulting Co., Ltd. Guangzhou Branch
+
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
