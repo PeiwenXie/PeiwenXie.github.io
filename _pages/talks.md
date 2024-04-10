@@ -22,6 +22,7 @@ author_profile: true
 * “Herding in NFT Auction: The Role of Visual Complexity and Familiarity”
 
 **Econometric Society Summer School in Dynamic Structural Econometrics, December 2022, Virtual**
+<p>&nbsp;</p>
 
 **International Conference on Crypto-Marketing, December 2022, New York, USA**		
 * “Herding and Its Determinants in NFT Auction”
