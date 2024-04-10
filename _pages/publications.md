@@ -24,6 +24,6 @@ author_profile: true
 
 **Works in progress:**
 
-* “When Algorithm Meets Art: The Algorithm Appreciation Effect in creative contents.” with Xinlong Li 
+* “When Algorithm Meets Art: The Algorithm Appreciation Effect in Creative Contents.” with Xinlong Li 
 
 
