@@ -7,8 +7,6 @@ author_profile: true
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-  
 
 **Articles Under Review:**
 
