@@ -8,7 +8,7 @@ author_profile: true
 <p>&nbsp;</p>
 
 
-**ISMS Marketing Science Conference, June 2024, Sydney, Australia (Scheduled)**
+**ISMS Marketing Science Conference, June 2024, Sydney, Australia**
 * “The Value of Probabilistic Selling: Evidence from NFT Mystery Box”
 <p>&nbsp;</p>
 
