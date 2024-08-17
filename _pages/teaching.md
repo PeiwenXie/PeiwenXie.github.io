@@ -10,6 +10,6 @@ author_profile: true
 
 **Nanyang Technological University**
 * Marketing, Instructor, Undergraduate core, Fall 2022
-* Class size: 2 sections, total 51 students
+* Class size: 2 sections, total 49 students
 * Evaluation mean: 4.6/5
 
