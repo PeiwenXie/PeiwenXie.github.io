@@ -10,4 +10,4 @@ redirect_from:
 <p>&nbsp;</p>
 
 
-Here is my [CV](https://peiwenxie.github.io/files/Xie_Peiwen_CV_May_24.pdf), updated May 2024.
+Here is my [CV](https://peiwenxie.github.io/files/Xie_Peiwen_CV_Dec_24.pdf), updated Dec 2024.
